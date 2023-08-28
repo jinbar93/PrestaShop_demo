@@ -21,6 +21,8 @@
  *
  * @author    PrestaShop SA and Contributors <contact@prestashop.com>
  * @copyright Since 2007 PrestaShop SA and Contributors
+ *test
+ 
  * @license   https://opensource.org/licenses/OSL-3.0 Open Software License (OSL 3.0)
  */
 require_once __DIR__ . '/AppKernel.php';
